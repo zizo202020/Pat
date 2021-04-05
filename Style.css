@@ -1,0 +1,71 @@
+body{
+  height:100% ;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+/*----Gallery----*/
+#h1{
+  padding-left: center;
+  margin: auto;
+  justify-self: auto;
+  text-align: center;
+  
+}
+
+li a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:navy;
+  font-family: cursive;
+}
+
+/* Change the link color to #11
+
+1 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+ h1 {
+color: goldenrod;
+ }
+ 
+.logo{
+    text-align: center;
+}
+    
+.footer{
+  position: sticky;
+  text-align: center;
+  color: goldenrod;
+  font-size: large;
+
+}
+
+.grid-container img{
+  border: 2px solid yellow;
+} 
+
+
+.social{
+text-align: center;
+background-color: #111;
+
+}
+
+
+.h1{
+font-family:monospace;
+text-align: center;
+}
+
